@@ -329,7 +329,7 @@
     "validation.msg.configuration.cannot.edit.consult.documentation": "Uneditable configuration. Consult documentation.",
     "error.msg.permission.code.invalid": "Permission with code `{{params[0].value}}` does not exist.",
     "error.msg.role.id.invalid": "Role with identifier `{{params[0].value}}` does not exist.",
-    "error.msg.role.associated.with.users" : "Role associated with users can not be modify.",
+    "error.msg.role.associated.with.users" : "Role associated with users cannot be modified.",
     "error.msg.role.associated.with.users.deleted" : "Role associated with users can not be deleted.",
     "error.msg.role.associated.with.users.disabled" : "Role associated with users can not be disabled.",
     "error.msg.user.id.invalid": "User with identifier `{{params[0].value}}` does not exist.",
